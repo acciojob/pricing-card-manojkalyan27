@@ -1,1 +1,19 @@
 /*  your css code here. If applicable */
+button{
+	border-radius: 10px;
+	background-color: #FE625A;
+	color: white;
+	width: 70px;
+	height:50px;
+}
+img{
+	margin-left: 250px;
+	margin-top: 50px;
+}
+#body,h1{
+	text-align: center;
+	margin-top: 1px;
+}
+#main{
+	background-color: #F1F1F1;
+}
